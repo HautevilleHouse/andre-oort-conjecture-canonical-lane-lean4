@@ -1,0 +1,7 @@
+-- This module is the root of the AndreOortConjectureCanonicalLaneLean Lean proof package.
+import AndreOortConjectureCanonicalLaneLean.Basic
+import AndreOortConjectureCanonicalLaneLean.SourcePackage
+import AndreOortConjectureCanonicalLaneLean.SourceDependencies
+import AndreOortConjectureCanonicalLaneLean.Formalization
+import AndreOortConjectureCanonicalLaneLean.ReviewerBridge
+import AndreOortConjectureCanonicalLaneLean.TheoremStatement
